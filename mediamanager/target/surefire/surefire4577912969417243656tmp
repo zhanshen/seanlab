@@ -1,0 +1,31 @@
+#surefire
+#Mon Feb 14 00:58:50 CST 2011
+testClassesDirectory=E\:\\workspace\\project\\seanlab\\mediamanager\\target\\test-classes
+classPathUrl.4=E\:\\lib\\m2\\commons-logging\\commons-logging\\1.1.1\\commons-logging-1.1.1.jar
+classPathUrl.3=E\:\\lib\\m2\\org\\springframework\\spring-asm\\3.0.3.RELEASE\\spring-asm-3.0.3.RELEASE.jar
+classPathUrl.2=E\:\\lib\\m2\\org\\springframework\\spring-core\\3.0.3.RELEASE\\spring-core-3.0.3.RELEASE.jar
+useManifestOnlyJar=true
+classPathUrl.1=E\:\\workspace\\project\\seanlab\\mediamanager\\target\\classes
+reportsDirectory=E\:\\workspace\\project\\seanlab\\mediamanager\\target\\surefire-reports
+classPathUrl.0=E\:\\workspace\\project\\seanlab\\mediamanager\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=E\:\\workspace\\project\\seanlab\\mediamanager\\src\\test\\java
+surefireClassPathUrl.1=E\:\\lib\\m2\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=E\:\\lib\\m2\\org\\apache\\maven\\surefire\\surefire-junit4\\2.7.1\\surefire-junit4-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=E\:\\workspace\\project\\seanlab\\mediamanager\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.6=E\:\\lib\\m2\\junit\\junit\\4.8.1\\junit-4.8.1.jar
+classPathUrl.5=E\:\\lib\\m2\\commons-io\\commons-io\\1.4\\commons-io-1.4.jar
